@@ -220,7 +220,7 @@ const Portfolio = () => {
       <footer id="contact" className="bg-blue-600 text-white py-10">
         <div className="container mx-auto px-6 text-center">
           <h2 className="text-2xl font-bold mb-4">Get in Touch</h2>
-          <p className="mb-4">Email: john.doe@example.com</p>
+          <p className="mb-4">Email: ilyasdev3@gmail.com</p>
           <div className="flex justify-center space-x-4">
             <a href="#" className="hover:text-blue-200 transition-colors">
               LinkedIn
